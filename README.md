@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @akshayCODE27
-- 👀 I’m interested in python & machine learning
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in python, Scientific modelling & Machine learning
+- 🌱 I’m currently learning data science & machine learning 
 - 💞️ I’m looking to collaborate on machine learning projects
-- 📫 reach me on akshay.code27@gmail.cpom
+- 📫 reach me on akshay.code27@gmail.com
 
 <!---
 akshayCODE27/akshayCODE27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
